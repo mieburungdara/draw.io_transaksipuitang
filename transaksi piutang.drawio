@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T08:57:20.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RT0hpQ_INg0J8ppPR7_B" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T08:59:45.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IzIzHVxPMA31Huq7uH-o" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1496" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
         <mxCell id="nfKiZLi6P8qtk1P5oRgc-4" value="keterangan" style="swimlane;startSize=20;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-3" vertex="1">
           <mxGeometry y="20" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nfKiZLi6P8qtk1P5oRgc-5" value="Hutang usaha" style="rounded=0;whiteSpace=wrap;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-4" vertex="1">
+        <mxCell id="nfKiZLi6P8qtk1P5oRgc-5" value="piutang" style="rounded=0;whiteSpace=wrap;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-4" vertex="1">
           <mxGeometry x="-4.547473508864641e-13" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nfKiZLi6P8qtk1P5oRgc-6" value="KAS" style="rounded=0;whiteSpace=wrap;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-4" vertex="1">
@@ -226,7 +226,7 @@
         <mxCell id="nfKiZLi6P8qtk1P5oRgc-16" value="keterangan" style="swimlane;startSize=20;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-15" vertex="1">
           <mxGeometry y="20" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nfKiZLi6P8qtk1P5oRgc-17" value="Hutang usaha" style="rounded=0;whiteSpace=wrap;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-16" vertex="1">
+        <mxCell id="nfKiZLi6P8qtk1P5oRgc-17" value="piutang" style="rounded=0;whiteSpace=wrap;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-16" vertex="1">
           <mxGeometry x="-4.547473508864641e-13" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nfKiZLi6P8qtk1P5oRgc-18" value="KAS" style="rounded=0;whiteSpace=wrap;html=1;" parent="nfKiZLi6P8qtk1P5oRgc-16" vertex="1">
