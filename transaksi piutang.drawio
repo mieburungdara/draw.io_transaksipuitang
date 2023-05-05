@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T03:38:37.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2SxWOP8nkT6_3TrGCg32" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T16:47:41.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-PjFGaF0u5KSyf3stoV3" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1157,8 +1157,11 @@
         <mxCell id="V0xYjyDDSgr1FGFiApq1-186" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1300.9999999999995" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kl45eTKb_peODKopue8P-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V0xYjyDDSgr1FGFiApq1-118" target="V0xYjyDDSgr1FGFiApq1-118">
+        <mxCell id="Kl45eTKb_peODKopue8P-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V0xYjyDDSgr1FGFiApq1-118" target="V0xYjyDDSgr1FGFiApq1-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr85qC3LLq6jMhso8RDC-0" value="Penambahan PPH (masuk ke hutang di neraca) (dan PPN jika ada)&lt;br&gt;buat speed, foreman dll kecuali biaya operasional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="284" y="2270" width="386" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
